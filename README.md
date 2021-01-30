@@ -1,6 +1,6 @@
-### Hi. I'm barong84 👋
-## Novice Developer
-## Photographer and Blogger
+## Hi. I'm barong84 👋
+### Novice Developer
+### Photographer and Blogger
 
 <!--
 **barong84/barong84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
