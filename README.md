@@ -1,5 +1,4 @@
 ## Hi. I'm barong84 👋
-### Novice Developer
 ### Photographer and Blogger
 
 <!--
